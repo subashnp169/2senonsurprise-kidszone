@@ -1,0 +1,20 @@
+{
+  "name": "Senna Kids Zone",
+  "short_name": "Kids Zone",
+  "description": "A magical bilingual learning adventure for toddlers aged 1–4!",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0d0a1e",
+  "theme_color": "#0d0a1e",
+  "lang": "en",
+  "categories": ["education", "kids"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌟</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
